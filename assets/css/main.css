@@ -2108,6 +2108,7 @@ section,
 }
 
 .finish{
+  color: white;
   padding: 12px 21px;
   border-radius: 3px;
   background-color: var(--accent-color);
